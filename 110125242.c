@@ -27,9 +27,10 @@ int main()
 	thuong=a/b;
 	printf("\nThuong a/b = %d", thuong);
 	
-	
+	*/thuytrucdethuonghonphuonglan/*
 	return 0;
 }
+
 
 
 
